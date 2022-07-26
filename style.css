@@ -1,0 +1,26 @@
+
+body {
+    background-color: gray;
+    font-family: arial narrow;
+    color: #fff;
+}
+
+h1 {
+    color: grey;
+    font-family: arial #000;
+    text-align: center;
+}
+
+.maindiv {
+    width: 480px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 25px;
+    align: center;
+    background-color: #fff;
+    color: #000;
+}
+
+table {
+    margin-left: 100px;
+}
